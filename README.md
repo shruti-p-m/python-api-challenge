@@ -1,6 +1,6 @@
 # python-api-challenge
 ## WeatherPy Folder
-The WeatherPy Folder contains the WeatherPy script, which generates a list of coordinates and uses the OpenWeather API to get the city name and information of each set of coordinates. With cities and the information for each city, a csv file called cities.csv is generated and is stored in the From there, four scatterplots are generated, and eight linear regression plots are generated and are outputed to the Images folder within the WeatherPy folder.
+The WeatherPy Folder contains the WeatherPy script, which generates a list of coordinates and uses the OpenWeatherMap API to get the city name and information of each set of coordinates. With cities and the information for each city, a csv file called cities.csv is generated and is stored in the From there, four scatterplots are generated, and eight linear regression plots are generated and are outputed to the Images folder within the WeatherPy folder.
 
 The scatterplots generated are
 - Latitude vs Cloudiness
